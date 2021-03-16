@@ -80,6 +80,6 @@ After completing the python installation now it is a matter of one command to in
 ```Pip3.7 install scrapy```
 
 
-*** This is a high level blog on AWS EC2 nd MongoDB and this documet is written for my own understanding and it may help you for your quick recap ***
+*** This is a high level blog on AWS EC2 and MongoDB and this documet is written for my own understanding and it may help you for your quick recap. If you have any correction please feel free to add that into the issue section***
 
 
