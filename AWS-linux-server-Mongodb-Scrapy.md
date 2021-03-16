@@ -1,11 +1,10 @@
-AWS Linux Server configuration with Mongodb Scrapy Python Git
-
+AWS Linux Server configuration with Mongodb Scrapy Python Git.
 # Create an AWS EC2 free tier Linux Ubuntu 18.x server
 
-There are two types of free Linux machine in AWS. One is Amazon Linux and another one is Amazon Linux 2. I created an instance with 8GB of Storage and 1GB of Memory and created security rules http, https, ssh connection.
+There are two types of free Linux machine in AWS. One is Amazon Linux and another one is Amazon Linux 2. you can create an instance with 8GB of Storage and 1GB of Memory and keep the other settings default. You have to add the following security rules ```http, https, ssh connection```.
 
 # Install MongoDB
-I have installed the MongoDB 4.0 Community Edition on Amazon Linux 2 using the yum package manager.
+You can use the yum package manager to install the MongoDB 4.0 Community Edition on Amazon Linux 2.
  
 To check the Machine version I used this command in the shell
 
@@ -79,5 +78,8 @@ Now check the python version using the following command.
 After completing the python installation now it is a matter of one command to install scapy on the machine. 
 
 ```Pip3.7 install scrapy```
+
+
+*** This is a high level blog on AWS EC2 nd MongoDB and this documet is written for my own understanding and it may help you for your quick recap ***
 
 
