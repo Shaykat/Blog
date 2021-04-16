@@ -108,5 +108,3 @@ Hunter API requests are made from “Get_emails” function.
 
 ### Lambda and Lemlist: 
 Lemlist API requests are made from the “lemlist-add-lead-in-campaign” function. 
-
-### And rest of the Lambda functions and their specifications are given here.
